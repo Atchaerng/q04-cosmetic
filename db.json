@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "quantity": 1,
+            "imageSrc": "/images/glasting-melting-balm.png",
+            "name": "Glasting Melting Balm",
+            "price": 360
+        },
+        {
+            "quantity": 2,
+            "imageSrc": "/images/eye-pallete.png",
+            "name": "Multi EYE Color Pallete",
+            "price": 490
+        },
+        {
+            "quantity": 3,
+            "imageSrc": "/images/neo-cushion.png",
+            "name": "NEO Cushion SPF 50 PA+++",
+            "price": 1500
+        },
+        {
+            "quantity": 4,
+            "imageSrc": "/images/powder.png",
+            "name": "1-2 Beautiful Ultra Fine Matte Loose Powder 15g.",
+            "price": 390
+        },
+        {
+            "quantity": 5,
+            "imageSrc": "/images/brow-pencil.png",
+            "name": "Basic Brow Triangular Brow Pencil",
+            "price": 149
+        },
+        {
+            "quantity": 6,
+            "imageSrc": "/images/sky-maskara.png",
+            "name": "New York Lash Sensational Sky High Maskara",
+            "price": 299
+        }
+    ]
+}
