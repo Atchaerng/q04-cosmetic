@@ -4,12 +4,7 @@ export default function Navbar() {
  return (
    <div className="navbar bg-base-100 sticky top-0 z-10">
      <div className="flex-1">
-       <div className="avatar">
-         <div className="w-20 rounded">
-           <img src="/images/AerNG.jpeg" />
-         </div>
-       </div>
-       <a className="btn btn-ghost text-xl">6504031610160 อัจฉรา จอมสูงเนิน</a>
+        <a className="btn btn-ghost text-xl">6504031610160 อัจฉรา จอมสูงเนิน</a>
      </div>
      <div className="flex-none gap-2">
        <div className="form-control">
@@ -28,7 +23,7 @@ export default function Navbar() {
            <div className="w-10 rounded-full">
              <img
                alt="Tailwind CSS Navbar component"
-               src="/images/cosmetics-logo.png"
+               src="/images/AerNG.jpeg"
              />
            </div>
          </div>
